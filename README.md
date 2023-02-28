@@ -10,6 +10,13 @@
 - [特点](#特点)
 - [版块目录](#版块目录)
 - [使用方法](#使用方法)
+    - [参与讨论](#参与讨论)
+    - [创建讨论](#创建讨论)
+    - [搜索讨论](#搜索讨论)
+    - [订阅讨论](#订阅讨论)
+    - [提问](#提问)
+    - [投诉](#投诉)
+    - [其他](#其他)
 - [用户守则](#用户守则)
 - [版权声明](#版权声明)
     - [知识产权](#知识产权)
@@ -19,7 +26,7 @@
 
 ## 愿景
 
-在这个论坛我们只围绕技术话题进行讨论、分享、提问、解答。
+在这个论坛我们只围绕技术话题进行分享、讨论、提问、解答。
 
 这里没有人生感言，没有政治立场，没有职场八卦，没有招聘信息，没有二手交易。
 
@@ -40,18 +47,20 @@
 - [前端](https://github.com/just-talks/frontend/discussions): HTML、CSS、JS 等话题
 - [容器](https://github.com/just-talks/container/discussions): Docker，LXC，Podman 等容器技术
 - [DevOps](https://github.com/just-talks/devops/discussions): 系统运维，网络知识，K8S
+- [硬件](https://github.com/just-talks/hardware/discussions): 嵌入式，智能硬件，树莓派，arduino，路由器，交换机，GPU，DPU，各种芯片模块和开发板
 - [数据库](https://github.com/just-talks/database/discussions)
 - [Linux](https://github.com/just-talks/linux/discussions): Unix/Linux/BSD 系统相关
 - [Shell](https://github.com/just-talks/shell/discussions): 终端、Shell 脚本相关
 - [编辑器](https://github.com/just-talks/editor/discussions): Vim、Neovim、Emacs、VS Code、Sublime、Eclipse 等编辑器、IDE 相关话题
 - [算法](https://github.com/just-talks/algorithm/discussions)
-- [机器学习](https://github.com/just-talks/ML/discussions)
+- [机器学习](https://github.com/just-talks/ML/discussions): 人工智能，深度学习，NLP，AIGC
 - [游戏开发](https://github.com/just-talks/game-dev/discussions)
 - [iOS](https://github.com/just-talks/ios/discussions)
 - [Android](https://github.com/just-talks/android/discussions)
-- [Web 3](https://github.com/just-talks/web3/discussions): 区块链，以太坊，加密货币，Dapp
-- [硬件](https://github.com/just-talks/hardware/discussions): 嵌入式，智能硬件，树莓派，arduino，路由器，交换机，GPU，DPU，各种芯片模块和开发板
+- [Web3](https://github.com/just-talks/web3/discussions): 区块链，以太坊，加密货币，Dapp
 - [安全](https://github.com/just-talks/security/discussions): 网络、软件、硬件方面的安全攻防。渗透工具。Kali Linux。CVE。
+- [Apple](https://github.com/just-talks/apple/discussions): 苹果自家的硬件和软件产品：MacOS, iPhone, MacBook, iOS, iPad, iWatch, Xcode, WWDC 等
+- [微软](https://github.com/just-talks/microsoft/discussions): 微软自家的硬件和软件产品：Windows, Surface, Bing, Office, Xbox, Github 等
 - 编程语言
   - [C/C++](https://github.com/just-talks/c/discussions)
   - [Lua](https://github.com/just-talks/lua/discussions)
@@ -64,8 +73,6 @@
   - [Ruby](https://github.com/just-talks/ruby/discussions)
   - [Haskell](https://github.com/just-talks/haskell/discussions)
   - [Racket](https://github.com/just-talks/racket/discussions)
-- [Apple](https://github.com/just-talks/apple/discussions): 苹果自家的硬件和软件产品：macOS, iPhone, MacBook, iOS, iPad, iWatch, Xcode, WWDC, iPod, AirPods
-- [微软](https://github.com/just-talks/microsoft/discussions): 微软自家的硬件和软件产品：Windows, Surface, Bing, Office, Xbox, Github
 - [设计](https://github.com/just-talks/design-talks/discussions): 建筑设计、平面设计、排版、字体等设计话题。并非架构设计。
 - [闲聊][闲聊版块]: 唯一可以聊非技术话题的版块。在这里释放你的闲聊欲望。
 
@@ -73,30 +80,46 @@
 
 ## 使用方法
 
-- 参与讨论
-  - 请在对应版块的 Github Discussions 参与讨论。不要创建 Pull Request。
-- 创建讨论
-  - 创建讨论前请先搜索，避免创建重复讨论。
-  - 请在对应的版块里创建讨论。若无对应版块，请到[论坛事务][]发帖请求创建新版块。
-  - [如何判断应该在哪个版块发帖？](https://github.com/just-talks/tech-talks/discussions/13)
-  - 请在对应的讨论分类 (Categories) 下创建讨论。若无对应分类，可以发到「General」分类下。
-  - 创建讨论后请标记相应的标签 (Label)，便于他人筛选浏览。
-- 搜索讨论
-  - 版块搜索：在 Discussions 页面的搜索框输入搜索词即可。
-  - 全局搜索：在最上面的 Github 搜索框输入 `org:just-talks 搜索词` 就能搜索所有版块的讨论。比如搜[“算法”](https://github.com/search?q=org%3Ajust-talks+%E7%AE%97%E6%B3%95&type=discussions)。
-- 订阅讨论
-  - 对于你感兴趣的版块，点击项目的 `Watch` 按钮来订阅消息。具体用法请看 [Github - 查看订阅](https://docs.github.com/zh/account-and-profile/managing-subscriptions-and-notifications-on-github/managing-subscriptions-for-activity-on-github/viewing-your-subscriptions)。
-  - 你也可以只订阅某个讨论。进入某个讨论，点击右边 Notifications 的 `Subscribe` 按钮。
-- 提问：统一在「Q&A」分类下提问，因为这个分类下的讨论可以确认答案 (Answers enabled)。
-- 投诉：请到[论坛事务][]发帖描述需求。
-- 其他
-  - [关于如何基于 Github Discussion 做论坛](https://github.com/just-talks/tech-talks/discussions/14)
+### 参与讨论
 
-- 写作指南
-  1. 标题保持简短易读。不要把内容都写在标题里。
-  2. 提问前需了解并遵守「[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)」「[如何有效地报告 Bug](http://www.chiark.greenend.org.uk/~sgtatham/bugs-cn.html) ([链接备份](https://web.archive.org/web/20230221005113/https://www.chiark.greenend.org.uk/~sgtatham/bugs-cn.html))」「[How to create a Minimal, Complete, and Verifiable example](http://stackoverflow.com/help/mcve)」。
+- 请在对应版块的 Github Discussions 参与讨论。不要创建 Pull Request。
+- 不要发信息量很低的评论。比如 “+1”，“支持”，“哈哈”，“顶帖”，“沙发”，“前排”，“路过”，“不明觉厉”。
+- 建议用 [Github Emoji 标签][]表达个人态度。比如 ❤️  表达喜欢，👍 表达认同，👎 表达不认同，👀 表达关注。
 
-[论坛事务]: https://github.com/just-talks/tech-talks/discussions/categories/7-%E8%AE%BA%E5%9D%9B%E4%BA%8B%E5%8A%A1
+### 创建讨论
+
+- 创建讨论前请先搜索，避免创建重复讨论。
+- 请在对应的版块里创建讨论。若无对应版块，请到[论坛事务][]发帖请求创建新版块。
+- [如何判断应该在哪个版块发帖？](https://github.com/just-talks/tech-talks/discussions/13)
+- 请在对应的讨论分类 (Categories) 下创建讨论。若无对应分类，可以发到「General」分类下。
+- 标题应当言简意赅。不要把内容都写在标题。
+- 创建讨论后请标记相应的标签 (Label)，便于他人筛选浏览。
+
+### 搜索讨论
+
+- 版块搜索：在 Discussions 页面的搜索框输入搜索词即可。
+- 全局搜索：在最上方 Github 搜索框输入 `org:just-talks 搜索词` 可搜索所有版块的讨论。比如搜[算法](https://github.com/search?q=org%3Ajust-talks+%E7%AE%97%E6%B3%95&type=discussions)。
+
+### 订阅讨论
+
+- 对于你感兴趣的版块，点击项目的 `Watch` 按钮来订阅消息。具体用法请看 [Github - 查看订阅](https://docs.github.com/zh/account-and-profile/managing-subscriptions-and-notifications-on-github/managing-subscriptions-for-activity-on-github/viewing-your-subscriptions)。
+- 你也可以只订阅某个讨论。进入某个讨论，点击右边 Notifications 的 `Subscribe` 按钮。
+
+### 提问
+
+- 统一在「Q&A」分类下提问，因为这个分类下的讨论可以确认答案 (Answers enabled)。
+- 提问前需了解并遵守「[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)」「[如何有效地报告 Bug](http://www.chiark.greenend.org.uk/~sgtatham/bugs-cn.html) ([链接备份](https://web.archive.org/web/20230221005113/https://www.chiark.greenend.org.uk/~sgtatham/bugs-cn.html))」「[How to create a Minimal, Complete, and Verifiable example](http://stackoverflow.com/help/mcve)」。
+
+### 投诉
+
+- 请到[论坛事务][]发帖描述需求。
+
+### 其他
+
+- [关于如何基于 Github Discussion 做论坛](https://github.com/just-talks/tech-talks/discussions/14)
+- 多给予他人肯定与支持，或者帮助他人解决问题。少表达不满、嘲笑、指责和愤怒，这些表达既没指出问题所在，对解决问题也没任何帮助。
+- 让我们专注于技术问题，而不是人本身的问题。人比技术复杂太多。对于陌生网友，我们更是知之甚少。
+- 先理解对方的观点，再表达自己的观点。
 
 ## 用户守则
 
@@ -106,7 +129,7 @@
 3. 禁止阴阳怪气、嘲讽、辱骂、威胁、暴露他人隐私等行为。
 4. 禁止谈论政治、宗教、信仰。
 5. 禁止发布求职或招聘信息。
-6. 禁止发布无信息量的评论，比如“+1”，“顶”，“沙发”，“前排”，“留名”，“路过”，“不明觉厉”。推荐使用 [Github Emoji 标签](https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/)。
+6. 禁止发布无信息量的评论，比如 “+1”，“顶”，“沙发”，“前排”，“留名”，“路过”，“不明觉厉”。
 7. 禁止发布任何有关盗版的任何信息。
 8. 禁止全文转载文章。请发文章链接，最好再补上备份链接。如何制作备份链接请看[这篇文章](https://adoyle.me/Today-I-Learned/others/archive-webpage.html) ([链接备份](https://web.archive.org/web/20230227102341/https://adoyle.me/Today-I-Learned/others/archive-webpage.html))。
 9. 禁止发布有关歧视、色情、性暗示、擦边球的图片、视音频、文字、外链等信息，包括 AI 生成的此类信息。
@@ -138,3 +161,5 @@
 <!-- links -->
 
 [闲聊版块]: https://github.com/just-talks/chat/discussions
+[论坛事务]: https://github.com/just-talks/tech-talks/discussions/categories/7-%E8%AE%BA%E5%9D%9B%E4%BA%8B%E5%8A%A1
+[Github Emoji 标签]: https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/
