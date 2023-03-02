@@ -38,10 +38,10 @@
 
 1. 不闲聊。只聊技术。中文论坛。
 2. 基于 Github Discussions 搭建。由 Github 社区成员共同参与并维护。
-3. 用户可以订阅自己关心的领域讨论，不受其他领域讨论打扰。
-4. 支持邮件通知，GitHub 通知。
-5. 支持全局搜索，版块搜索。
-6. 支持贴图，GIF 动图，外链。
+3. 用户可以[订阅自己关心的领域讨论](#订阅讨论)，不受其他领域讨论打扰。
+4. 支持[邮件通知，GitHub 通知](https://docs.github.com/zh/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/about-notifications)。无需主动刷论坛网页，看一眼邮箱或者通知列表就行啦。
+5. 支持[全局搜索，版块搜索](#搜索讨论)。
+6. 支持贴图，GIF 动图，[上传视频](https://github.blog/2021-05-13-video-uploads-available-github/)，外链。
 
 ## 版块目录
 
@@ -63,6 +63,9 @@
 - [安全](https://github.com/just-talks/security/discussions): 网络、软件、硬件方面的安全攻防。渗透工具。Kali Linux。CVE。
 - [Apple](https://github.com/just-talks/apple/discussions): 苹果自家的硬件和软件产品：MacOS, iPhone, MacBook, iOS, iPad, iWatch, Xcode, WWDC 等
 - [微软](https://github.com/just-talks/microsoft/discussions): 微软自家的硬件和软件产品：Windows, Surface, Bing, Office, Xbox, Github 等
+- [数学](https://github.com/just-talks/math/discussions): MATLAB，Mathematica，R 语言，统计学，数学分析
+- [逻辑学](https://github.com/just-talks/logic/discussions): 逻辑编程，Prolog，逻辑证明，推理
+- [写作](https://github.com/just-talks/writing/discussions): 写作，翻译，RFC
 - 编程语言
   - [C/C++](https://github.com/just-talks/c/discussions)
   - [Lua](https://github.com/just-talks/lua/discussions)
@@ -79,6 +82,7 @@
 - [闲聊][闲聊版块]: 唯一可以聊非技术话题的版块。在这里释放你的闲聊欲望。
 
 所有版块都属于 [Just Talks 组织的子项目](https://github.com/orgs/just-talks/repositories?type=source)。
+(注意，Follow Just-Talks 组织并不等同于[订阅讨论](#订阅讨论))
 
 ## 使用方法
 
@@ -105,6 +109,7 @@
 
 ### 订阅讨论
 
+- 你无需主动刷论坛网页，看一眼邮箱或者通知列表就行啦。
 - 对于你感兴趣的版块，点击项目的 `Watch` 按钮来订阅消息。具体用法请看 [Github - 查看订阅](https://docs.github.com/zh/account-and-profile/managing-subscriptions-and-notifications-on-github/managing-subscriptions-for-activity-on-github/viewing-your-subscriptions)。
 - 你也可以只订阅某个讨论。进入某个讨论，点击右边 Notifications 的 `Subscribe` 按钮。
 
@@ -134,6 +139,7 @@
 
 - [关于如何基于 Github Discussion 做论坛](https://github.com/just-talks/tech-talks/discussions/14)
 - 让我们专注于技术问题，而不是人本身的问题。人比技术复杂太多。对于陌生网友，我们更是知之甚少。
+- **请大家多参与分享与交流。帮忙推广本论坛，分享转发给需要的人。给项目加一颗 Star。感谢。**
 
 ## 用户守则
 
