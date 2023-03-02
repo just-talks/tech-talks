@@ -66,6 +66,7 @@
 - [数学](https://github.com/just-talks/math/discussions): MATLAB，Mathematica，R 语言，统计学，数学分析
 - [逻辑学](https://github.com/just-talks/logic/discussions): 逻辑编程，Prolog，逻辑证明，推理
 - [写作](https://github.com/just-talks/writing/discussions): 写作，翻译，RFC
+- [设计](https://github.com/just-talks/design-talks/discussions): 建筑设计、平面设计、排版、字体等设计话题。并非架构设计。
 - 编程语言
   - [C/C++](https://github.com/just-talks/c/discussions)
   - [Lua](https://github.com/just-talks/lua/discussions)
@@ -78,7 +79,6 @@
   - [Ruby](https://github.com/just-talks/ruby/discussions)
   - [Haskell](https://github.com/just-talks/haskell/discussions)
   - [Racket](https://github.com/just-talks/racket/discussions)
-- [设计](https://github.com/just-talks/design-talks/discussions): 建筑设计、平面设计、排版、字体等设计话题。并非架构设计。
 - [闲聊][闲聊版块]: 唯一可以聊非技术话题的版块。在这里释放你的闲聊欲望。
 
 所有版块都属于 [Just Talks 组织的子项目](https://github.com/orgs/just-talks/repositories?type=source)。
@@ -101,6 +101,7 @@
 - 请在对应的讨论分类 (Categories) 下创建讨论。若无对应分类，可以发到「General」分类下。
 - 标题应当言简意赅。不要把内容都写在标题。
 - 创建讨论后请标记相应的标签 (Label)，便于他人筛选浏览。
+  - 如果没有合适的标签，你可以修改项目的 `.github/labels.yml` 文件，提个 PR，审核通过后会自动加上标签。
 
 ### 搜索讨论
 
@@ -111,6 +112,7 @@
 
 - 你无需主动刷论坛网页，看一眼邮箱或者通知列表就行啦。
 - 对于你感兴趣的版块，点击项目的 `Watch` 按钮来订阅消息。具体用法请看 [Github - 查看订阅](https://docs.github.com/zh/account-and-profile/managing-subscriptions-and-notifications-on-github/managing-subscriptions-for-activity-on-github/viewing-your-subscriptions)。
+    <img width="350" alt="点击 Watch Custom 订阅 Discussion" src="https://user-images.githubusercontent.com/1998490/222496718-d135034d-efd2-43d6-b8ff-149d4efd630a.png">
 - 你也可以只订阅某个讨论。进入某个讨论，点击右边 Notifications 的 `Subscribe` 按钮。
 
 ### 提问
