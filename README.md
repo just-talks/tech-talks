@@ -80,6 +80,7 @@
   - [Haskell](https://github.com/just-talks/haskell/discussions)
   - [Racket](https://github.com/just-talks/racket/discussions)
 - [闲聊][闲聊版块]: 唯一可以聊非技术话题的版块。在这里释放你的闲聊欲望。
+- [论坛事务][]: 论坛建议，投诉
 
 所有版块都属于 [Just Talks 组织的子项目](https://github.com/orgs/just-talks/repositories?type=source)。
 (注意，Follow Just-Talks 组织并不等同于[订阅讨论](#订阅讨论))
@@ -134,7 +135,7 @@
 
 ### 投诉
 
-- 请到[论坛事务][]发帖描述需求。
+- 请到[论坛事务][]发帖描述需求。不要在其他版块发帖。
 - 如果有人攻击你，你别急着反击输出，先 @[管理员](#管理员列表)。如果他违反了用户守则，管理员会处理的。
 
 ### 其他
@@ -188,5 +189,5 @@
 <!-- links -->
 
 [闲聊版块]: https://github.com/just-talks/chat/discussions
-[论坛事务]: https://github.com/just-talks/tech-talks/discussions/categories/7-%E8%AE%BA%E5%9D%9B%E4%BA%8B%E5%8A%A1
+[论坛事务]: https://github.com/just-talks/affairs/discussions
 [Github Emoji 标签]: https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/
