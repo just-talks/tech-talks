@@ -21,6 +21,7 @@
 - [用户守则](#用户守则)
 - [管理员列表](#管理员列表)
 - [版权声明](#版权声明)
+    - [项目许可](#项目许可)
     - [知识产权](#知识产权)
     - [免责声明](#免责声明)
 
@@ -166,6 +167,15 @@
 - 闲聊版块：[招募中](https://github.com/just-talks/chat/discussions/1)
 
 ## 版权声明
+
+### 项目许可
+
+[![CC BY-NC-SA 4.0][cc-by-shield]][cc-by]
+
+Tech Talks 采用[知识共享 署名-非商业性使用-相同方式共享 4.0 国际 许可协议][cc-by]进行许可。
+
+[cc-by]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 ### 知识产权
 
