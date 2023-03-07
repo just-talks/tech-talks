@@ -39,10 +39,11 @@
 
 1. 不闲聊。只聊技术。中文论坛。
 2. 基于 Github Discussions 搭建。由 Github 社区成员共同参与并维护。
-3. 用户可以[订阅自己关心的领域讨论](#订阅讨论)，不受其他领域讨论打扰。
+3. 用户可以[订阅自己关心的话题](#订阅讨论)，不会被不相关的讨论打扰。
 4. 支持[邮件通知，GitHub 通知](https://docs.github.com/zh/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/about-notifications)。无需主动刷论坛网页，看一眼邮箱或者通知列表就行啦。
 5. 支持[全局搜索，版块搜索](#搜索讨论)。
 6. 支持贴图，GIF 动图，[上传视频](https://github.blog/2021-05-13-video-uploads-available-github/)，外链。
+7. 支持 [GitHub Flavored Markdown 语法](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)。
 
 ## 版块目录
 
@@ -62,8 +63,8 @@
 - [Android](https://github.com/just-talks/android/discussions)
 - [Web3](https://github.com/just-talks/web3/discussions): 区块链，以太坊，加密货币，Dapp
 - [安全](https://github.com/just-talks/security/discussions): 网络、软件、硬件方面的安全攻防。渗透工具。Kali Linux。CVE。
-- [Apple](https://github.com/just-talks/apple/discussions): 苹果自家的硬件和软件产品：MacOS, iPhone, MacBook, iOS, iPad, iWatch, Xcode, WWDC 等
-- [微软](https://github.com/just-talks/microsoft/discussions): 微软自家的硬件和软件产品：Windows, Surface, Bing, Office, Xbox, Github 等
+- [Apple](https://github.com/just-talks/apple/discussions): 苹果相关的硬件和软件产品：Mac App, iOS App, MacOS, iPhone, MacBook, iOS, iPad, iWatch, Xcode, WWDC 等
+- [微软](https://github.com/just-talks/microsoft/discussions): 微软相关的硬件和软件产品：Windows, Surface, Bing, Office, Xbox, Github 等
 - [数学](https://github.com/just-talks/math/discussions): MATLAB，Mathematica，R 语言，统计学，数学分析
 - [逻辑学](https://github.com/just-talks/logic/discussions): 逻辑编程，Prolog，逻辑证明，推理
 - [写作](https://github.com/just-talks/writing/discussions): 写作，翻译，RFC
@@ -83,6 +84,8 @@
 - [闲聊][闲聊版块]: 唯一可以聊非技术话题的版块。在这里释放你的闲聊欲望。
 - [论坛事务][]: 论坛建议，投诉
 
+若无对应版块，请到[论坛事务][]请求创建新版块。
+
 所有版块都属于 [Just Talks 组织的子项目](https://github.com/orgs/just-talks/repositories?type=source)。
 (注意，Follow Just-Talks 组织并不等同于[订阅讨论](#订阅讨论))
 
@@ -97,13 +100,11 @@
 ### 创建讨论
 
 - 创建讨论前请先搜索，避免创建重复讨论。
-- 请在对应的版块里创建讨论。若无对应版块，请到[论坛事务][]发帖请求创建新版块。
+- 请在对应的版块里创建讨论。若无对应版块，请到[论坛事务][]请求创建新版块。
 - [如何判断应该在哪个版块发帖？](https://github.com/just-talks/tech-talks/discussions/13)
   - [如果同一个话题想发到多个版块怎么办？](https://github.com/just-talks/tech-talks/discussions/13#discussioncomment-5165716)
 - 请在对应的讨论分类 (Categories) 下创建讨论。若无对应分类，可以发到「General」分类下。
 - 标题应当言简意赅。不要把内容都写在标题。
-- 创建讨论后请标记相应的标签 (Label)，便于他人筛选浏览。
-  - 如果没有合适的标签，你可以修改项目的 `.github/labels.yml` 文件，提个 PR，审核通过后会自动加上标签。
 
 ### 搜索讨论
 
@@ -144,6 +145,7 @@
 - [关于如何基于 Github Discussion 做论坛](https://github.com/just-talks/tech-talks/discussions/14)
 - 让我们专注于技术问题，而不是人本身的问题。人比技术复杂太多。对于陌生网友，我们更是知之甚少。
 - **请大家多参与分享与交流。帮忙推广本论坛，分享转发给需要的人。给项目加一颗 Star。感谢。**
+- 标签 (Label) 由管理员统一管理和添加到讨论。用户无法主动添加标签。
 
 ## 用户守则
 
