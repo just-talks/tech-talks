@@ -52,6 +52,8 @@
 - [容器](https://github.com/just-talks/container/discussions): Docker，LXC，Podman 等容器技术
 - [DevOps](https://github.com/just-talks/devops/discussions): 系统运维，网络知识，K8S
 - [硬件](https://github.com/just-talks/hardware/discussions): 嵌入式，智能硬件，树莓派，arduino，路由器，交换机，GPU，DPU，各种芯片模块和开发板
+- [数码设备](https://github.com/just-talks/device/discussions): 手机、台式机、笔记本电脑、打印机、摄像机、照相机、家用电器等
+- [Service](https://github.com/just-talks/service/discussions): SaaS，PaaS，aPaaS，IaaS，Cloud Service 等数字服务
 - [数据库](https://github.com/just-talks/database/discussions)
 - [Linux](https://github.com/just-talks/linux/discussions): Unix/Linux/BSD 系统相关
 - [Shell](https://github.com/just-talks/shell/discussions): 终端、Shell 脚本相关
@@ -62,7 +64,7 @@
 - [iOS](https://github.com/just-talks/ios/discussions)
 - [Android](https://github.com/just-talks/android/discussions)
 - [Web3](https://github.com/just-talks/web3/discussions): 区块链，以太坊，加密货币，Dapp
-- [安全](https://github.com/just-talks/security/discussions): 网络、软件、硬件方面的安全攻防。渗透工具。Kali Linux。CVE。
+- [安全](https://github.com/just-talks/security/discussions): 密码学，网络、软件、硬件方面的安全攻防。渗透工具。Kali Linux。CVE。
 - [Apple](https://github.com/just-talks/apple/discussions): 苹果相关的硬件和软件产品：Mac App, iOS App, MacOS, iPhone, MacBook, iOS, iPad, iWatch, Xcode, WWDC 等
 - [微软](https://github.com/just-talks/microsoft/discussions): 微软相关的硬件和软件产品：Windows, Surface, Bing, Office, Xbox, Github 等
 - [数学](https://github.com/just-talks/math/discussions): MATLAB，Mathematica，R 语言，统计学，数学分析
@@ -117,6 +119,7 @@
 - 对于你感兴趣的版块，点击项目的 `Watch` 按钮来订阅消息。具体用法请看 [Github - 查看订阅](https://docs.github.com/zh/account-and-profile/managing-subscriptions-and-notifications-on-github/managing-subscriptions-for-activity-on-github/viewing-your-subscriptions)。
     <img width="350" alt="点击 Watch Custom 订阅 Discussion" src="https://user-images.githubusercontent.com/1998490/222496718-d135034d-efd2-43d6-b8ff-149d4efd630a.png">
 - 你也可以只订阅某个讨论。进入某个讨论，点击右边 Notifications 的 `Subscribe` 按钮。
+- Follow Just-Talks 组织不会收到讨论通知，你的主页消息流也不会显示新讨论。
 
 ### 提问
 
