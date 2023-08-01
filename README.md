@@ -44,47 +44,48 @@
 5. 支持[全局搜索，版块搜索](#搜索讨论)。
 6. 支持贴图，GIF 动图，[上传视频](https://github.blog/2021-05-13-video-uploads-available-github/)，外链。
 7. 支持 [GitHub Flavored Markdown 语法](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)。
+8. 支持 [RSS 订阅](https://github.com/just-talks/tech-talks/discussions/59)。
 
 ## 版块目录
 
-- [Tech Talks 主版块](https://github.com/just-talks/tech-talks/discussions): 面向程序员的大众话题。
-- [前端](https://github.com/just-talks/frontend/discussions): HTML、CSS、JS 等话题
-- [容器](https://github.com/just-talks/container/discussions): Docker，LXC，Podman 等容器技术
-- [DevOps](https://github.com/just-talks/devops/discussions): 系统运维，网络知识，K8S
-- [硬件](https://github.com/just-talks/hardware/discussions): 嵌入式，智能硬件，树莓派，arduino，路由器，交换机，GPU，DPU，各种芯片模块和开发板
-- [数码设备](https://github.com/just-talks/device/discussions): 手机、台式机、笔记本电脑、打印机、摄像机、照相机、家用电器等
-- [Service](https://github.com/just-talks/service/discussions): SaaS，PaaS，aPaaS，IaaS，Cloud Service 等数字服务
-- [数据库](https://github.com/just-talks/database/discussions)
-- [Linux](https://github.com/just-talks/linux/discussions): Unix/Linux/BSD 系统相关
-- [Shell](https://github.com/just-talks/shell/discussions): 终端、Shell 脚本相关
-- [编辑器](https://github.com/just-talks/editor/discussions): Vim、Neovim、Emacs、VS Code、Sublime、Eclipse 等编辑器、IDE 相关话题
-- [算法](https://github.com/just-talks/algorithm/discussions)
-- [机器学习](https://github.com/just-talks/ML/discussions): 人工智能，深度学习，NLP，AIGC
-- [游戏开发](https://github.com/just-talks/game-dev/discussions)
-- [iOS](https://github.com/just-talks/ios/discussions)
-- [Android](https://github.com/just-talks/android/discussions)
-- [Web3](https://github.com/just-talks/web3/discussions): 区块链，以太坊，加密货币，Dapp
-- [安全](https://github.com/just-talks/security/discussions): 密码学，网络、软件、硬件方面的安全攻防。渗透工具。Kali Linux。CVE。
-- [Apple](https://github.com/just-talks/apple/discussions): 苹果相关的硬件和软件产品：Mac App, iOS App, MacOS, iPhone, MacBook, iOS, iPad, iWatch, Xcode, WWDC 等
-- [微软](https://github.com/just-talks/microsoft/discussions): 微软相关的硬件和软件产品：Windows, Surface, Bing, Office, Xbox, Github 等
-- [数学](https://github.com/just-talks/math/discussions): MATLAB，Mathematica，R 语言，统计学，数学分析
-- [逻辑学](https://github.com/just-talks/logic/discussions): 逻辑编程，Prolog，逻辑证明，推理
-- [写作](https://github.com/just-talks/writing/discussions): 写作，翻译，RFC
-- [设计](https://github.com/just-talks/design-talks/discussions): 建筑设计、平面设计、排版、字体等设计话题。并非架构设计。
+- [RSS](https://github.com/just-talks/tech-talks/discussions.atom) | [Tech Talks 主版块](https://github.com/just-talks/tech-talks/discussions): 面向程序员的大众话题。
+- [RSS](https://github.com/just-talks/frontend/discussions.atom) | [前端](https://github.com/just-talks/frontend/discussions): HTML、CSS、JS 等话题
+- [RSS](https://github.com/just-talks/container/discussions.atom) | [容器](https://github.com/just-talks/container/discussions): Docker，LXC，Podman 等容器技术
+- [RSS](https://github.com/just-talks/devops/discussions.atom) | [DevOps](https://github.com/just-talks/devops/discussions): 系统运维，网络知识，K8S
+- [RSS](https://github.com/just-talks/hardware/discussions.atom) | [硬件](https://github.com/just-talks/hardware/discussions): 嵌入式，智能硬件，树莓派，arduino，路由器，交换机，GPU，DPU，各种芯片模块和开发板
+- [RSS](https://github.com/just-talks/device/discussions.atom) | [数码设备](https://github.com/just-talks/device/discussions): 手机、台式机、笔记本电脑、打印机、摄像机、照相机、家用电器等
+- [RSS](https://github.com/just-talks/service/discussions.atom) | [Service](https://github.com/just-talks/service/discussions): SaaS，PaaS，aPaaS，IaaS，Cloud Service 等数字服务
+- [RSS](https://github.com/just-talks/database/discussions.atom) | [数据库](https://github.com/just-talks/database/discussions)
+- [RSS](https://github.com/just-talks/linux/discussions.atom) | [Linux](https://github.com/just-talks/linux/discussions): Unix/Linux/BSD 系统相关
+- [RSS](https://github.com/just-talks/shell/discussions.atom) | [Shell](https://github.com/just-talks/shell/discussions): 终端、Shell 脚本相关
+- [RSS](https://github.com/just-talks/editor/discussions.atom) | [编辑器](https://github.com/just-talks/editor/discussions): Vim、Neovim、Emacs、VS Code、Sublime、Eclipse 等编辑器、IDE 相关话题
+- [RSS](https://github.com/just-talks/algorithm/discussions.atom) | [算法](https://github.com/just-talks/algorithm/discussions)
+- [RSS](https://github.com/just-talks/ML/discussions.atom) | [机器学习](https://github.com/just-talks/ML/discussions): 人工智能，深度学习，NLP，AIGC
+- [RSS](https://github.com/just-talks/game-dev/discussions.atom) | [游戏开发](https://github.com/just-talks/game-dev/discussions)
+- [RSS](https://github.com/just-talks/ios/discussions.atom) | [iOS](https://github.com/just-talks/ios/discussions)
+- [RSS](https://github.com/just-talks/android/discussions.atom) | [Android](https://github.com/just-talks/android/discussions)
+- [RSS](https://github.com/just-talks/web3/discussions.atom) | [Web3](https://github.com/just-talks/web3/discussions): 区块链，以太坊，加密货币，Dapp
+- [RSS](https://github.com/just-talks/security/discussions.atom) | [安全](https://github.com/just-talks/security/discussions): 密码学，网络、软件、硬件方面的安全攻防。渗透工具。Kali Linux。CVE。
+- [RSS](https://github.com/just-talks/apple/discussions.atom) | [Apple](https://github.com/just-talks/apple/discussions): 苹果相关的硬件和软件产品：Mac App, iOS App, MacOS, iPhone, MacBook, iOS, iPad, iWatch, Xcode, WWDC 等
+- [RSS](https://github.com/just-talks/microsoft/discussions.atom) | [微软](https://github.com/just-talks/microsoft/discussions): 微软相关的硬件和软件产品：Windows, Surface, Bing, Office, Xbox, Github 等
+- [RSS](https://github.com/just-talks/math/discussions.atom) | [数学](https://github.com/just-talks/math/discussions): MATLAB，Mathematica，R 语言，统计学，数学分析
+- [RSS](https://github.com/just-talks/logic/discussions.atom) | [逻辑学](https://github.com/just-talks/logic/discussions): 逻辑编程，Prolog，逻辑证明，推理
+- [RSS](https://github.com/just-talks/writing/discussions.atom) | [写作](https://github.com/just-talks/writing/discussions): 写作，翻译，RFC
+- [RSS](https://github.com/just-talks/design-talks/discussions.atom) | [设计](https://github.com/just-talks/design-talks/discussions): 建筑设计、平面设计、排版、字体等设计话题。并非架构设计。
 - 编程语言
-  - [C/C++](https://github.com/just-talks/c/discussions)
-  - [Lua](https://github.com/just-talks/lua/discussions)
-  - [NodeJS](https://github.com/just-talks/nodejs/discussions): NodeJS、JavaScript、Typescript
-  - [Rust](https://github.com/just-talks/rust/discussions)
-  - [Golang](https://github.com/just-talks/golang/discussions)
-  - [Zig](https://github.com/just-talks/zig/discussions)
-  - [Python](https://github.com/just-talks/python/discussions)
-  - [Java](https://github.com/just-talks/java/discussions)
-  - [Ruby](https://github.com/just-talks/ruby/discussions)
-  - [Haskell](https://github.com/just-talks/haskell/discussions)
-  - [Racket](https://github.com/just-talks/racket/discussions)
-- [闲聊][闲聊版块]: 唯一可以聊非技术话题的版块。在这里释放你的闲聊欲望。
-- [论坛事务][]: 论坛建议，投诉
+  - [RSS](https://github.com/just-talks/c/discussions.atom) | [C/C++](https://github.com/just-talks/c/discussions)
+  - [RSS](https://github.com/just-talks/lua/discussions.atom) | [Lua](https://github.com/just-talks/lua/discussions)
+  - [RSS](https://github.com/just-talks/nodejs/discussions.atom) | [NodeJS](https://github.com/just-talks/nodejs/discussions): NodeJS、JavaScript、Typescript
+  - [RSS](https://github.com/just-talks/rust/discussions.atom) | [Rust](https://github.com/just-talks/rust/discussions)
+  - [RSS](https://github.com/just-talks/golang/discussions.atom) | [Golang](https://github.com/just-talks/golang/discussions)
+  - [RSS](https://github.com/just-talks/zig/discussions.atom) | [Zig](https://github.com/just-talks/zig/discussions)
+  - [RSS](https://github.com/just-talks/python/discussions.atom) | [Python](https://github.com/just-talks/python/discussions)
+  - [RSS](https://github.com/just-talks/java/discussions.atom) | [Java](https://github.com/just-talks/java/discussions)
+  - [RSS](https://github.com/just-talks/ruby/discussions.atom) | [Ruby](https://github.com/just-talks/ruby/discussions)
+  - [RSS](https://github.com/just-talks/haskell/discussions.atom) | [Haskell](https://github.com/just-talks/haskell/discussions)
+  - [RSS](https://github.com/just-talks/racket/discussions.atom) | [Racket](https://github.com/just-talks/racket/discussions)
+- [RSS](https://github.com/just-talks/chat/discussions.atom) | [闲聊][闲聊版块]: 唯一可以聊非技术话题的版块。在这里释放你的闲聊欲望。
+- [RSS](https://github.com/just-talks/affairs/discussions.atom) | [论坛事务][]: 论坛建议，投诉
 
 若无对应版块，请到[论坛事务][]请求创建新版块。
 
@@ -120,6 +121,7 @@
     <img width="350" alt="点击 Watch Custom 订阅 Discussion" src="https://user-images.githubusercontent.com/1998490/222496718-d135034d-efd2-43d6-b8ff-149d4efd630a.png">
 - 你也可以只订阅某个讨论。进入某个讨论，点击右边 Notifications 的 `Subscribe` 按钮。
 - Follow Just-Talks 组织不会收到讨论通知，你的主页消息流也不会显示新讨论。
+- 如果你使用 RSS 客户端，可以订阅 Discussion RSS。具体看[这个帖子](https://github.com/just-talks/tech-talks/discussions/59)。
 
 ### 提问
 
